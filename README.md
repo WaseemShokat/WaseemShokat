@@ -23,7 +23,7 @@ can and cannot identify.
   *Journal of Advanced Research* 48 (2023) 157–173. [doi:10.1016/j.jare.2022.08.010](https://doi.org/10.1016/j.jare.2022.08.010)
 - **W. Shokat**, "Fractional physics-informed neural networks with time-varying transmission for modelling
   and scenario forecasting of COVID-19 dynamics" – submitted (2026).
-- R. Zarin, **W. Shokat**, F. Makhdoum, A. Jan, K. Guedri, "Polyharmonic-spline RBF-FD and finite element methods for a spatial tuberculosis model: verification, Neumann boundary stability and application on the South Korean mainland" – under review, *Engineering Analysis with Boundary Elements* (2026).
+- R. Zarin, **W. Shokat**, B. M. Makhdoum, R. Jan, K. Guedri, "Polyharmonic-spline RBF-FD and finite element methods for a spatial tuberculosis model: verification, Neumann boundary stability and application on the South Korean mainland" – under review, *Engineering Analysis with Boundary Elements* (2026).
 ### Links
 [ORCID](https://orcid.org/0009-0007-0398-0146) ·
 [Google Scholar](https://scholar.google.com/citations?user=JI_dqPEAAAAJ) ·
