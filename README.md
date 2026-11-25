@@ -16,7 +16,7 @@ can and cannot identify.
 | Repository | What it is |
 |---|---|
 | [fpinn-covid19](https://github.com/WaseemShokat/fpinn-covid19) | Fractional PINN that learns the memory order and a time-varying transmission rate (paper submitted to *Chaos, Solitons & Fractals*, 2026) |
-
+| [fractional-epidemic-identifiability](https://github.com/WaseemShokat/fractional-epidemic-identifiability) | Joint work with Dr He Li: do fractional (memory) models improve COVID-19 forecasts, and can the order be identified from data? |
 ### Publications
 - D. Baleanu, S. Arshad, A. Jajarmi, **W. Shokat**, F. Akhavan Ghassabzade, M. Wali,
   "Dynamical behaviours and stability analysis of a generalized fractional model with a real case study",
